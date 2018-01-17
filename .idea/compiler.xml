@@ -9,8 +9,8 @@
         <module name="jdk8-demo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="jdk8-demo" target="1.8" />
+    <bytecodeTargetLevel>
+      <module name="jdk8-demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
